@@ -1,0 +1,24 @@
+[{
+    "codigo": 1,
+    "anoDeLancamento": 2022,
+    "titulo": "Top Gun",
+    "atores": [
+        "Tom Cruise",
+        "Jennifer Connelly"
+    ],
+    "duracao": 131,
+    "emCartaz": true
+},
+{
+    "codigo": 2,
+    "anoDeLancamento": 2009,
+    "titulo": "Avatar",
+   "atores": [
+        "Zöe Saldaña",
+        "Sam Worthington",
+        "Michelle Rodriguez",
+        "Sigourney Weaver"
+    ],
+    "duracao": 4,
+    "emCartaz": true
+}]
